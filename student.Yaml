@@ -1,0 +1,25 @@
+- name: "Santosh kumar"
+  DOB: "19-06-1993"
+  mobilenumber: 6754321
+  address:
+  - flatnumber: 104
+    street:"gandhi nagar"
+    city:"hyderabad"
+    type:"current"
+
+- name: "suresh"
+  dob: "10-08-1987"
+  mobilenumber: 5432768
+  address:
+  - flatnumber: 123
+    area: "gandhiroad"
+    city:"hyderabad"
+    type:"current"
+
+  - flatnumber: 123
+    area: "gandhiroad"
+    city:"hyderabad"
+    type:"perm"
+
+
+
